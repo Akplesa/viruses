@@ -1,0 +1,43 @@
+Hypothesis
+	•	COVID-19 has a higher transmission rate than H1N1.
+	•	We will test this hypothesis through various statistical analyses using pandemic datasets found on Kaggle .
+	•	Covid-19/H1N1: What is the trend for the ‘’Rate of Cases” of each country?
+	•	By comparing COVID-19 Cases over Time in different countries we can determine who is currently doing better or worse during the pandemic.
+	•	By evaluating H1N1 Cases over Time for the SAME countries we can see if they show similar trends to our current COVID-19 pandemic.
+	•	Based on this information future studies can evaluate why some countries might be doing better than others.
+	•	We selected only 6 countries due to limited data in both data sets. 
+	•	2. COVID-19/H1N1: What is the trend for the death rates of each country?
+	•	By comparing COVID-19 death rates in different countries we can better understand who is currently doing better or worse during the pandemic allowing future studies to further research and  understand why there might be more deaths in one country vs. the other.
+	•	By comparing H1N1 death rates for the SAME countries we can now understand which virus lead to greater mortalities than the other. 
+	•	3. COVID-19/H1N1: Is there a correlation between pandemic cases and deaths??
+	•	We use the linear regression to model the relationship between cases vs deaths for COVID-19 and for H1N1.
+	•	This will allow us to see if there is a strong or weak positive or negative correlation between pandemic cases and deaths.
+	•	The R^2 value will show that the value of variation in one variable may be explained by the other
+	•	We believe that there will be a strong correlation and relationship between pandemic cases and deaths. 
+	•	4. COVID-19: Will countries with higher diabetes prevalences show greater trends for increased COVID-19 Cases? 
+	•	Patients with diabetes are often treated with ARB and ACE inhibitors [2]. With the inhibition of ACE Enzymes the amount of ACE receptors automatically increase and become readily available. Many researchers suspect that COVID-19 uses ACE2 receptors to enter the lungs in a similar mechanism to that of SARS-CoV [3]. Thus, using these drugs can potentially lead to a higher risk of contracting COVID-19.
+	•	We use bar graphs to show the diabetes prevalence in each country and suspect that countries with higher diabetes prevalence will show greater trends in COVID-19 cases.
+	•	By looking at the line graphs we can see which country shows a greater trend in cases.
+	•	Answers:
+	•	Covid-19/H1N1: What are 
+	•	The only countries that are plateauing are China and the UK while the rest of the countries are showing trends of increasing cases.
+	•	The countries with the highest peaks are the U.S and the UK at 300,000 cases in June.
+	•	Australia was the country with the lowest peak at 9000 cases in July.
+	•	Similar to COVID-19 the peaks were in June and July with  Egypt and the U.S having the highest.
+	•	Unlike COVID-19 number of cases were much lower.
+	•	
+	•	COVID-19/H1N1: What is the trend for the Death Rates of each country?
+	•	The U.S and UK had the highest death rates.
+	•	The U.S and Egypt are the only countries increasing in death rates
+	•	Similar to COVID-19 peaks for all countries are in June and July.
+	•	
+	•	  3. COVID-19/H1N1: Is there a correlation between pandemic cases and deaths??
+	•	Yes, there is
+	•	COVID-19: Will countries with higher diabetes prevalences show greater trends for increased COVID-19 Cases? 
+	•	The countries with the highest peaks are the U.S and the UK at 300,000 cases in June.
+	•	The U.S and Egypt are the only countries increasing in death rates
+	•	Hypothesis Testing:
+	•	COVID-19 has a higher transmission rate than H1N1.
+	•	The Null Hypothesis is that COVID-19 does not have a higher transmission rate than H1N1.
+	•	We test this hypothesis by comparing the average cases of COVID-19 and H1N1 in the independent T-test.
+	•	Our P value=0 therefore we can reject the null.
