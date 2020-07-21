@@ -1,0 +1,21 @@
+Analysis
+
+
+Line Graphs:
+By comparing COVID-19/H1N1 Cases and Deaths over Time in different countries we  determined who is currently doing ‘better’ or ‘worse’ during the pandemic. 
+Based on this information future studies can evaluate why some countries might be doing better than others.
+We selected only  6 countries due to limited data in both data sets. 
+
+Linear regression: 
+We used the linear regression to model the relationship between cases vs deaths for COVID-19 and H1N1. 
+This will allowed us to see that there was a  strong correlation and relationship between pandemic cases and pandemic deaths. 
+
+Graph:
+We used a bar graph to evaluate which countries had a higher diabetes prevelance during the COVID-19 timeframe and compared it to the line graph of COVID-19 Cases to see if there would be a relationship between higher COVIID-19 cases in countries with higher diabetes prevelance. There wasnt. We were limited to using this method due to having only 1 data point for diabetes prevelance per country.
+
+
+T-Test:
+Our hypothesis was that COVID-19 has a higher transmission rate than H1N1.
+The Null Hypothesis is that COVID-19 does not have a higher transmission rate than H1N1.
+We test this hypothesis by comparing the average cases of COVID-19 and H1N1 in the independent T-test.
+Our P value=0 therefore we can reject the null.
